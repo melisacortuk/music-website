@@ -1,2 +1,2 @@
 # music-website
-Responsive Music WebSite
+Responsive Music Website
